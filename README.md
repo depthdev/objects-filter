@@ -1,6 +1,6 @@
 # filter
 Filter lists/JSON objects by keywords, partial words, and groups of words.
-Optionally, specify paths with JSON syntax and/or ask for caseSensitive searching.
+Optionally, specify paths with JSON syntax and/or ask for case-sensitive results.
 
 <p><a href="http://codepen.io/clearwavedesigns/pen/emwBmW" target="_blank">Demo</a></p>
 <p>Example Use:</p>
