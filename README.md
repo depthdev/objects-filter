@@ -1,5 +1,6 @@
 # filter
-Filter lists/JSON objects by keywords
+Filter lists/JSON objects by keywords, partial words, and groups of words.
+Optionally, specify paths with JSON syntax and/or ask for caseSensitive searching.
 
 <p><a href="http://codepen.io/clearwavedesigns/pen/emwBmW" target="_blank">Demo</a></p>
 <p>Example Use:</p>
@@ -8,7 +9,7 @@ var list = Filter(objectToQuery, [
 	{
 		filter: document.getElementById('filter-name').value,
 		paths: 'name', // Optional
-		caseSensitive: false // Optional
+		caseSensitive: false // Optional, default is false
 	},
 	{
 		filter: document.getElementById('filter-color').value,
@@ -16,7 +17,7 @@ var list = Filter(objectToQuery, [
 			'color.notes',
 			'size.diameter'
 		], // Optional
-		caseSensitive: false // Optional
+		caseSensitive: false // Optional, default is false
 	}
 ]);
 </pre>
