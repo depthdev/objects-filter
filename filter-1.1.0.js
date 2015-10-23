@@ -1,16 +1,8 @@
 /*
- Copyright 2015 by CLEARWAVE DESIGNS, LLC.
- 
- Licensed under the Apache License, Version 2.0
- http://www.apache.org/licenses/LICENSE-2.0
- 
- Author:        Adam Carson
- Website:       http://clearwavedesigns.com
- Dependencies:  None.
- 
- Name(s):       Filter
- Description:   Filters an array of objects value(s). Optionally, the developer specifies case sensitivity per input, and optionally the object path(s) as well.
- */
+ Filter v1.1.0
+ (c) 2015 Clearwave Designs, LLC. http://clearwavedesigns.com
+ License: Apache 2.0
+*/
 
 function Filter(data, filters) {
 	
