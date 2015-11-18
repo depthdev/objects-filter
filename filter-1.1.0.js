@@ -1,6 +1,6 @@
 /*
  Filter v1.1.0
- (c) 2013-2015 Depth Development. http://depthdev.com
+ (c) 2015 Depth Development. http://depthdev.com
  License: Apache 2.0
 */
 
