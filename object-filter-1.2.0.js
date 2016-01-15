@@ -1,5 +1,5 @@
 /*
- ObjectFilter v1.1.0
+ ObjectFilter v1.2.0
  (c) 2015 Depth Development. http://depthdev.com
  License: Apache 2.0
 */
