@@ -1,16 +1,8 @@
 /*
+ ObjectFilter v1.1.0
  (c) 2015 Depth Development. http://depthdev.com
- 
- Licensed under the Apache License, Version 2.0
- http://www.apache.org/licenses/LICENSE-2.0
- 
- Author:        Adam Carson
- Website:       http://depthdev.com
- Dependencies:  None.
- 
- Name(s):       Filter
- Description:   Filters an array of objects value(s). Optionally, the developer specifies case sensitivity per input, and optionally the object path(s) as well.
- */
+ License: Apache 2.0
+*/
 
 
                                  Apache License
