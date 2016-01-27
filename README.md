@@ -1,5 +1,5 @@
 # ObjectsFilter
-<p>v1.2.0</p>
+<p>v1.3.0</p>
 <p>Filter lists/JSON objects by keywords, partial words, and groups of words.
 Optionally, specify paths with JSON syntax and/or ask for case-sensitive results.</p>
 
