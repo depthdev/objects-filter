@@ -1,10 +1,10 @@
 /*
- ObjectFilter v1.2.0
+ ObjectsFilter v1.3.0
  (c) 2015 Depth Development. http://depthdev.com
  License: Apache 2.0
 */
 
-function ObjectFilter(data, filters) {
+function ObjectsFilter(data, filters) {
 	
 	var data = data;
 	
@@ -121,4 +121,4 @@ function ObjectFilter(data, filters) {
 	
 	// Return the filtered data set
 	return data;
-} // end Filter
+} // end ObjectsFilter
