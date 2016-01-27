@@ -11,7 +11,7 @@ Optionally, specify paths with JSON syntax and/or ask for case-sensitive results
 <ul>
 <li>filter - string to find</li>
 <li>paths - nested properties to look through for the filter string, as a string, or array of strings, with object.property syntax</li>
-<li>caseSensitive - boolean to look with case sensitivity or not. The default is false (not case sensitive in searching)
+<li>caseSensitive - boolean to look with case sensitivity or not. The default is false (not case sensitive in searching)</li>
 </ul>
 
 <p><a href="http://codepen.io/depthdev/pen/emwBmW" target="_blank">Demo</a></p>
