@@ -1,11 +1,11 @@
-# ObjectFilter
+# ObjectsFilter
 <p>v1.2.0</p>
 <p>Filter lists/JSON objects by keywords, partial words, and groups of words.
 Optionally, specify paths with JSON syntax and/or ask for case-sensitive results.</p>
 
 <p>1 KB minified</p>
 
-<p>ObjectFilter is a function that takes two parameters, an array of objects to filter through, and an array of objects with <em>what</em> to query, and returns a new array with the objects that matched the queries.</p>
+<p>ObjectsFilter is a function that takes two parameters, an array of objects to filter through, and an array of objects with <em>what</em> to query, and returns a new array with the objects that matched the queries.</p>
 
 <p>Methods:</p>
 <ul>
@@ -17,7 +17,7 @@ Optionally, specify paths with JSON syntax and/or ask for case-sensitive results
 <p><a href="http://codepen.io/depthdev/pen/emwBmW" target="_blank">Demo</a></p>
 <p>Example Use:</p>
 <pre>
-var list = <strong>ObjectFilter(objectToQuery, [</strong>
+var list = <strong>ObjectsFilter(arrayOfObjectsToQuery, [</strong>
 	<strong>{</strong>
 		<strong>filter:</strong> document.getElementById('filter-name').value,
 		<strong>paths:</strong> 'name', // Optional
