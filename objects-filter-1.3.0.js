@@ -1,7 +1,7 @@
 /*
  ObjectsFilter v1.3.0
  (c) 2015 Depth Development. http://depthdev.com
- License: Apache 2.0
+ License: MIT
 */
 
 function ObjectsFilter(data, filters) {
